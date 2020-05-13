@@ -9,7 +9,7 @@
 
 
 
-// elements
+// vars
 let img_src         = 'morhoon1.gif';
 let img_size        = 140;
 let set_timer       = 15;                                     // duration of the game in seconds
@@ -115,9 +115,6 @@ function ammoReloader() {
 }
 
 
-
-////////////////////////////////////////////
-
 // visual effect target hit
 function hitEffect(target_id) {
 
@@ -163,8 +160,6 @@ function removeTarget(target_id) {
         target_remove.remove();
     // }, 500);
 }
-
-
 
 
 
@@ -370,15 +365,6 @@ function shootSound() {
     audio.currentTime = 0;
     audio.play();
 }
-
-
-
-
-
-
-
-
-
 
 
 ////////////////////////////////////////////
