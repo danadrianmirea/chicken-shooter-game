@@ -3,4 +3,4 @@ My sunday afternoon project built from scratch. It's a simple 2D shooting game w
 
 <h1>Where to Play</h1>
 Clone this repo or simply start shooting here:
-<a href="http://zoomlysoft.cz/chicken-shooter-game/index.html">Launch Game</a>
+<a href="https://zoomlysoft.cz/chicken-shooter-game/index.html">Launch Game</a>
